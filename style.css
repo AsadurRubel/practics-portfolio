@@ -6,11 +6,8 @@
 }
 
 .Header{
-    /* position: absolute; */
-    /* top: 5px; */
     background-color:#ebe7e7;
     display: flex;
-    /* overflow: hidden; */
     height: 80px;
     margin-left: 5px;
     margin-right: 5px;
@@ -19,15 +16,12 @@
 }
 .Phone{
     margin-left:27px;
-    /* width: 250px; */
     font-size: 20px;
-    /* color: tomato; */
 
 }
 
 .Email{
     margin-left:-370px;
-    /* width: 740px; */
     font-size: 20px;
 
 }
@@ -36,20 +30,10 @@
     font-size: 30px;
     font-weight: 700;
 }
-.Social{
-    /* display: block; */
-    /* margin-left:500px; */
-    /* padding: 5px; */
-    /* margin-top: 20px; */
-    
 
-
-}
 .Social a{
     padding: 15px;
-    /* margin-top: 5px; */
     font-size: 30px;
-    /* color: tomato; */
     text-decoration: none;
     color: rgb(41, 41, 40);
 }
@@ -57,12 +41,8 @@
     color:#F68B1F ;
 }
 
-
-
 .Navbar{
-    /* position:relative; */
     height: 80px;   
-    /* margin-top: 5px; */
     margin-right: 5px;
     margin-left: 5px;
     background-color:#F7F7F7;
@@ -72,16 +52,11 @@
 }
 
 .image img{
-    /* margin: 20px; */
     width: 100px;
     height: 80px;
-    /* position: relative; */
-    
     
 }
 .Asadur h1{
-    /* text-align:left; */
-    /* margin-top: -58px; */
     margin-left: -405px;
     margin-top: 25px;
     font-size: 50px;
@@ -90,21 +65,12 @@
     text-shadow: 10px 10px  solid tomato;
     color: #F68B1F;
     letter-spacing: -3px;
-    /* justify-content: space-evenly; */
     
-    
+}
 
-}
-.content{
-    /* text-align: right; */
-}
 .content ul li{
     display: inline;
-    /* margin-right:25px; */
-    /* position: relative; */
-    /* top:-50px; */
     font-size: 20px;
-    /* border: 1px solid tomato; */
     border-radius: 5px;
     padding: 10px;
     
@@ -121,42 +87,6 @@
     cursor: pointer;
     background-color:#F68B1F;
     text-decoration: underline;
-    /* display: block; */
     
 }
 
-/* .allbox{
-    width: 60%;
-    height: 470px;
-    border: 5px solid black;
-    background-color: tomato;
-    margin-top: 10px;
-    margin-left: 5px;
-    position: absolute;
-    display: flex;
-}
-
-.Box1{
-    width: 45%;
-    height: 450px;
-    border: 5px solid black;
-    position: relative;
-    /* top: 5px; */
-    /* left:20px; */
-    /* right: 20px; */
-    /* margin: 5px; */
-
-
-}
-
-/* .Box2{
-    width: 45%;
-    height: 450px;
-    border: 5px solid black;
-    position: relative;
-    /* top: 5px; */
-    /* left:35px; */
-    /* margin: 5px; */
-    /* text-align: right; */
-
-/* }   */
